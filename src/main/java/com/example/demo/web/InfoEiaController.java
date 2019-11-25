@@ -17,7 +17,7 @@ public class InfoEiaController  {
 	@GetMapping("/page")
 	public String page() {
 
-		return "web 3";
+		return "web tag 4";
 	}
 
 
